@@ -1,7 +1,7 @@
-import { Featured } from "@/components/featured/Featured"
 import styles from "./page.module.css"
 import { CardList } from "@/components/cardList/CardList"
 import { CartList } from "@/components/cartList/CartList"
+import Featured from "@/components/featured/Featured"
 import { Menu } from "@/components/menu/Menu"
 
 export default function Home() {
